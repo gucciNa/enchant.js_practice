@@ -100,7 +100,7 @@ window.onload = function() {
         core.keybind(32,'space');
 	core.addEventListener("spacebuttondown" , function(e) {
             spacePush = 1;        
-            knight.frame = knight.age % 3 + 6;
+          
 
 
         });
