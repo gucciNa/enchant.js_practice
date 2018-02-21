@@ -1,3 +1,2 @@
 # enchant.js_practice
-enchant.jsでRPG的なものを作りたかった。。。
-Help me...
+enchant.jsでRPG的なものを作ろうとしただけ
